@@ -40,12 +40,12 @@
         $(".btn-scrolldown").addClass("web2");
         $(".btn-text").addClass("web2");
         $(".arrow-icon").addClass("web2");
-        $("h2.page-intro---title").addClass("web2");
+        $(".page-intro---title").addClass("web2");
 
-    // Resource Gallery List
-        $(".bg---paint-swipe").addClass("web2");
-        $(".resource3xwide").addClass("web2");
-        $(".section-title").addClass("web2");
+    // // Resource Gallery List
+    //     $(".bg---paint-swipe").addClass("web2");
+    //     $(".resource3xwide").addClass("web2");
+    //     $(".section-title").addClass("web2");
     //Resource Preview
         $(".category-tag").addClass("web2");
         $(".btn-readmore").addClass("web2");
