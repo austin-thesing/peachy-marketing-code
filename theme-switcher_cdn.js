@@ -1,4 +1,4 @@
-console.log("It Fetched the new version");    
+console.log("It Fetched the new version - combo");    
     function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
