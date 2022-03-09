@@ -1,3 +1,4 @@
+// The Latest Version via Netifly  
   function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
