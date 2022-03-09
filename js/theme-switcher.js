@@ -71,7 +71,6 @@
     $(".tag-coming-soon").toggleClass("web2");
     $(".headline").toggleClass("web2");
     $(".paint-swipe").toggleClass("web2");
-    
     $(".button").toggleClass("web2");
     $(".col-slider-w-bg-shape").toggleClass("web2");
     
