@@ -1,6 +1,4 @@
-// use this to deliver script via CDN www.jsdelivr.com/github
-  
-  function getCookie(name) {
+    function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
       let [k,v] = el.split('=');
@@ -35,18 +33,16 @@
         $(".powered-by---tag").addClass("web2");
         $(".button").addClass("web2");
         $(".col-slider-w-bg-shape").addClass("web2");
-      
+
      // Resource Page - Theme Setup
         $(".btn-scrolldown").addClass("web2");
         $(".btn-text").addClass("web2");
         $(".arrow-icon").addClass("web2");
         $(".page-intro---title").addClass("web2");
-
-    // // Resource Gallery List
-    //     $(".bg---paint-swipe").addClass("web2");
-    //     $(".resource3xwide").addClass("web2");
-    //     $(".section-title").addClass("web2");
-    
+    // Resource Gallery List
+        $(".bg---paint-swipe").addClass("web2");
+        $(".resource3xwide").addClass("web2");
+        $(".section-title").addClass("web2");
     //Resource Preview
         $(".category-tag").addClass("web2");
         $(".btn-readmore").addClass("web2");
