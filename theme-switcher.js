@@ -46,6 +46,7 @@
     //     $(".bg---paint-swipe").addClass("web2");
     //     $(".resource3xwide").addClass("web2");
     //     $(".section-title").addClass("web2");
+    
     //Resource Preview
         $(".category-tag").addClass("web2");
         $(".btn-readmore").addClass("web2");
