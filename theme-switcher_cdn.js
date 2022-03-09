@@ -1,5 +1,4 @@
-console.log("It Fetched the new version - combo");    
-    function getCookie(name) {
+      function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
       let [k,v] = el.split('=');
