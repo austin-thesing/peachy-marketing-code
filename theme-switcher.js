@@ -22,7 +22,7 @@
     console.log("Hey!");
     if(checkForWeb2()){
       //Navigation - Theme Setup
-    	$("div.tag-early-access").addClass("web2");
+    	  $("div.tag-early-access").addClass("web2");
         $(".navlink").addClass("web2");
       	
       //Home - Theme Setup
@@ -34,10 +34,9 @@
         $(".col-slider-w-bg-shape").addClass("web2");
       
      //Resource - Theme Setup
-      $(".btn-scrolldown").addClass("web2");
-      $(".btn-text").addClass("web2");
-      $(".arrow-icon").addClass("web2");
-      
+        $(".btn-scrolldown").addClass("web2");
+        $(".btn-text").addClass("web2");
+        $(".arrow-icon").addClass("web2");
     }    
    });
   
