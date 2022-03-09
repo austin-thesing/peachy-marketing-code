@@ -1,4 +1,3 @@
-console.log("Latest Version");
     function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
@@ -21,6 +20,7 @@ console.log("Latest Version");
   //Check for existing cookie/theme setting
   $(document).ready(function(){
     console.log("Hey!");
+    console.log("Latest Version");
     if(checkForWeb2()){
 
       //Navigation - Theme Setup
