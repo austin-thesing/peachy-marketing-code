@@ -23,6 +23,7 @@
   $(document).ready(function(){
     console.log("Hey!");
     if(checkForWeb2()){
+      
       //Navigation - Theme Setup
     	  $("div.tag-early-access").addClass("web2");
         $(".navlink").addClass("web2");
@@ -40,6 +41,7 @@
         $(".btn-text").addClass("web2");
         $(".arrow-icon").addClass("web2");
         $(".page-intro---title").addClass("web2");
+
     // Resource Gallery List
         $(".bg---paint-swipe").addClass("web2");
         $(".resource3xwide").addClass("web2");
