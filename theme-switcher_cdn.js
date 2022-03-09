@@ -1,3 +1,4 @@
+console.log("Latest Version");
     function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
