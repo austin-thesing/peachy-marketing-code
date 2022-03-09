@@ -43,6 +43,7 @@
         $(".bg---paint-swipe").addClass("web2");
         $(".resource3xwide").addClass("web2");
         $(".section-title").addClass("web2");
+        $(".page-button").addClass("web2");
     //Resource Preview
         $(".category-tag").addClass("web2");
         $(".btn-readmore").addClass("web2");
@@ -83,6 +84,7 @@
       $(".bg---paint-swipe").toggleClass("web2");
       $(".resource3xwide").toggleClass("web2");
       $("h2.section-title").toggleClass("web2");
+      $(".page-button").toggleClass("web2");
    //Resource Preview
       $(".category-tag").toggleClass("web2");
       $(".btn-readmore").toggleClass("web2");
