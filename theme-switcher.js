@@ -35,11 +35,19 @@
         $(".button").addClass("web2");
         $(".col-slider-w-bg-shape").addClass("web2");
       
-     //Resource Page - Theme Setup
+     // Resource Page - Theme Setup
         $(".btn-scrolldown").addClass("web2");
         $(".btn-text").addClass("web2");
         $(".arrow-icon").addClass("web2");
         $(".page-intro---title").addClass("web2");
+
+        // Resource Gallery List
+          $(".bg---paint-swipe").addClass("web2");
+          $(".resource3xwide").addClass("web2");
+          $(".section-title").addClass("web2");
+        //Resource Preview
+          $(".category-tag").addClass("web2");
+          $(".btn-readmore").addClass("web2");
     }    
    });
   
@@ -74,5 +82,12 @@
     $(".btn-text").toggleClass("web2");
     $(".arrow-icon").toggleClass("web2");
     $(".page-intro---title").toggleClass("web2");
+    // Resource Gallery List
+      $(".bg---paint-swipe").toggleClass("web2");
+      $(".resource3xwide").toggleClass("web2");
+      $(".section-title").toggleClass("web2");
+   //Resource Preview
+      $(".category-tag").toggleClass("web2");
+      $(".btn-readmore").toggleClass("web2");
     
   });   
