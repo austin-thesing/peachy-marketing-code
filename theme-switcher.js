@@ -1,3 +1,5 @@
+// use to deliver from repo via CDN https://www.jsdelivr.com/github
+  
   function getCookie(name) {
     let cookie = {};
     document.cookie.split(';').forEach(function(el) {
