@@ -23,7 +23,7 @@
   $(document).ready(function(){
     console.log("Hey!");
     if(checkForWeb2()){
-      
+
       //Navigation - Theme Setup
     	  $("div.tag-early-access").addClass("web2");
         $(".navlink").addClass("web2");
@@ -40,7 +40,7 @@
         $(".btn-scrolldown").addClass("web2");
         $(".btn-text").addClass("web2");
         $(".arrow-icon").addClass("web2");
-        $(".page-intro---title").addClass("web2");
+        $("h2.page-intro---title").addClass("web2");
 
     // Resource Gallery List
         $(".bg---paint-swipe").addClass("web2");
@@ -86,7 +86,7 @@
     // Resource Gallery List
       $(".bg---paint-swipe").toggleClass("web2");
       $(".resource3xwide").toggleClass("web2");
-      $(".section-title").toggleClass("web2");
+      $("h2.section-title").toggleClass("web2");
    //Resource Preview
       $(".category-tag").toggleClass("web2");
       $(".btn-readmore").toggleClass("web2");
