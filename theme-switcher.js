@@ -1,4 +1,4 @@
-// use to deliver from repo via CDN https://www.jsdelivr.com/github
+// use this to deliver script via CDN https://www.jsdelivr.com/github
   
   function getCookie(name) {
     let cookie = {};
